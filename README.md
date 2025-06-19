@@ -1,7 +1,7 @@
 ---
 
 
-# Full-stack Keypoint & Image Capture System
+# Backend Project to Extract keypoints from image
 
 ---
 
