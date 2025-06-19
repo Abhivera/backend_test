@@ -1,9 +1,7 @@
 ---
 
-```markdown
-# Full-stack Keypoint & Image Capture System
 
-This project provides a backend system for extracting human pose keypoints from images using MediaPipe (Python), storing keypoints in PostgreSQL (Neon), images in MongoDB Atlas, and providing a REST API with daily backup and email notification.
+# Full-stack Keypoint & Image Capture System
 
 ---
 
@@ -34,8 +32,8 @@ This project provides a backend system for extracting human pose keypoints from 
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd python_image
+git clone https://github.com/Abhivera/backend_test
+cd backend_test
 ```
 
 ---
